@@ -1,0 +1,8 @@
+{
+  "name": "Zenith Personal Finance Tracker",
+  "description": "An elegant and intelligent personal finance tracker to manage your income, expenses, and budgets. Zenith uses AI to provide actionable insights, empowering you to take control of your financial well-being.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": "Build Zenith, an intelligent personal finance tracker using React and Tailwind. It should manage income, expenses, budgets, goals, and recurring transactions. Key features include an AI-powered 'Smart Feed' on the dashboard, a 'Trends' page for data visualization, a 'Debt Payoff Planner', and an 'AI Insights' section for chat and reports, all powered by the Gemini API. Include a settings page for API key management and data reset."
+}
