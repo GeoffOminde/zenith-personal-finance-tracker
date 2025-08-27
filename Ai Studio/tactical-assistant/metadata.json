@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Assistant",
+  "description": "A strategic sidekick for rugby and basketball coaches, designed for match preparation, player development, and performance analysis. This tool helps analyze footage, generate drills, plan training, and track performance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
